@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "133529314123",
+    "project_id": "curevia-f9157",
+    "storage_bucket": "curevia-f9157.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133529314123:android:da384f9b4eab8c90bb7ece",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133529314123-3q3kt1sajkqem14ort5676sd92n0omms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBFcnFb1jepuVBUfvjNmR6VdOgXoYoSpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133529314123-3q3kt1sajkqem14ort5676sd92n0omms.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "133529314123-9h8bfn1cmrn7lhtv7ahlj3ptf3f74uhj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterApplication1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
